@@ -1,4 +1,4 @@
-
+![](https://github.com/SamHarbi/SamHarbi/blob/main/walk-MC.gif)
 ## Hello There! I'm Sameer/Sam 👋
 I'm a **Final Year Computing Science** Student at the **University of Dundee** and this is my github page.   
 
