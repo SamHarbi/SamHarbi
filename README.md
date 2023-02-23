@@ -1,4 +1,5 @@
 ![](https://github.com/SamHarbi/SamHarbi/blob/main/walk-MC.gif)
+![](https://www.codewars.com/users/SamHarbi/badges/small)
 ## Hello There! I'm Sameer/Sam 👋
 I'm a **Final Year Computing Science** Student at the **University of Dundee** and this is my github page.   
 
